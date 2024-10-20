@@ -16,11 +16,11 @@ Topics: Bash
 Grade: 100
 
 ## Assignment 4
-Topics: C
+Topics: C, scanf
 
 Grade: 100
 
 ## Assignment 5
-Topics: C
+Topics: C, CSV files, makefile
 
 Grade: 100
